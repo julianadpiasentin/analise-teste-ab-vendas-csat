@@ -2,7 +2,7 @@
 
 Projeto autoral de análise de dados em **Excel** (tabelas dinâmicas, segmentação, fórmulas de teste estatístico e dashboard), feito com uma base sintética do Kaggle. A pergunta central: **uma nova estratégia de negócios gerou ganho real em receita, conversão e satisfação do cliente, ou a diferença é só ruído?**
 
-![Dashboard do teste A/B](prints.dashboard.png)
+![Dashboard do teste A/B](dashboard.png)
 
 *Dashboard com o segmento "Alto valor" selecionado. A segmentação controla todos os indicadores.*
 
